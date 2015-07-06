@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source source="LOCAL" name="Rails shopstop: development" uuid="f5ac0d8b-cae2-42e9-bb66-8d45d411e98e">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails shopstop: test" uuid="74e7b871-259d-41d3-aa62-d45bc6e57735">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails shopstop: production" uuid="e0f6d0e9-2d49-415f-b546-6cb3a4489ef4">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>

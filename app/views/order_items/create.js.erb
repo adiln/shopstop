@@ -1,0 +1,6 @@
+<% if @order.errors.any? || @order_item.errors.any? %>
+alert("not valid.")
+<% else %>
+$("#notice").html("<%= escape_javascript(render :partial => 'layouts/flash' , :locals => { :flash => flash }).html_safe %>").show().fadeOut(4000);
+$(".cart-text").html("<%= escape_javascript(render 'layouts/cart_text') %>")
+<% end %>
